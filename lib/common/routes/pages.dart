@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:get/route_manager.dart';
 
 import '../../pages/welcome/index.dart';
+import '../../pages/sign_in/index.dart';
 import 'names.dart';
 
 class AppPages {
@@ -15,11 +16,11 @@ class AppPages {
       page: () => WelcomePage(),
       binding: WelcomeBinding(),
     ),
-    // GetPage(
-    //   name: AppRoutes.SIGN_IN,
-    //   page: () => SignInPage(),
-    //   binding: SignInBinding(),
-    // ),
+    GetPage(
+      name: AppRoutes.SIGN_IN,
+      page: () => SignInPage(),
+      binding: SignInBinding(),
+    ),
     // GetPage(
     //     name: AppRoutes.Application,
     //     page: () => ApplicationPage(),

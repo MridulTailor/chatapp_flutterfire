@@ -14,7 +14,7 @@
       },
       "oauth_client": [
         {
-          "client_id": "423431216728-ct0b8ca1fht7tm2tmvm8mion48ub70me.apps.googleusercontent.com",
+          "client_id": "423431216728-j4fefv730k80c2p1etr7f0499c05shgr.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
@@ -50,7 +50,15 @@
       },
       "oauth_client": [
         {
-          "client_id": "423431216728-ct0b8ca1fht7tm2tmvm8mion48ub70me.apps.googleusercontent.com",
+          "client_id": "423431216728-8tqiqg34du0kuckt3acp1lbn5no1cio5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebase_chat",
+            "certificate_hash": "39ea4e2fe2b143be05f7b76ac06df34a0d0023fe"
+          }
+        },
+        {
+          "client_id": "423431216728-j4fefv730k80c2p1etr7f0499c05shgr.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
